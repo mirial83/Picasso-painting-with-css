@@ -29,3 +29,7 @@ HTML.
 Add a link element with a rel of 
 stylesheet and an href of 
 https://use.fontawesome.com/releases/v5.8.2/css/all.css.
+
+Step 5
+To get your painting started, give your 
+body element a background-color of rgb(184, 132, 46).
