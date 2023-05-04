@@ -10,3 +10,10 @@ Within your head element, add a meta
 tag with the charset attribute set to 
 utf-8. Also add a title element with 
 the text Picasso Painting.
+
+Step 3
+Go ahead and link your CSS file now, even 
+though you have not written any CSS yet.
+
+Add a link element with a rel of stylesheet 
+and an href of styles.css.
