@@ -137,3 +137,6 @@ and a background-color of rgb(45, 31, 19).
 
 Step 23
 Give the mask a position of absolute, and a top and left value of 0.
+
+Step 24
+To ensure you can see the mask, give it a z-index of 1.
