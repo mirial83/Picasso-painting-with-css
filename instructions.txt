@@ -395,3 +395,7 @@ Step 76
 Now use an id selector for guitar. Set the width to 100%, 
 and the height to 100px.
 
+Step 77
+In the same #guitar selector, set the position to absolute, 
+the top to 120px, and the left to 0px.
+
