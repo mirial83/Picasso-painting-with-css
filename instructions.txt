@@ -152,3 +152,9 @@ top value of 50px, and a left value of 125px.
 
 Step 27
 Set the z-index to 1.
+
+Step 28
+Use a class selector to create a rule for the elements 
+with black-dot class. Set the width to 10px, the height 
+to 10px, and the background-color to rgb(45, 31, 19).
+
