@@ -35,4 +35,10 @@ To get your painting started, give your
 body element a background-color of rgb(184, 132, 46).
 
 Step 6
-Within your body tag, add a div element. Give it an id of back-wall.
+Within your body tag, add a div element. 
+Give it an id of back-wall.
+
+Step 7
+Use an id selector to give the element with the 
+id back-wall a background-color of #8B4513.
+
