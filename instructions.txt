@@ -247,3 +247,8 @@ Step 45
 Position the #gray-mask element by setting position to absolute, 
 the top to -10px, and the left to 70px.
 
+Step 46
+Using an id selector, create a rule for the id white-paper. 
+Set the width to 400px, the height to 100px, and the 
+background-color to GhostWhite.
+
