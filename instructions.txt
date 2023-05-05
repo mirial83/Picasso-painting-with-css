@@ -208,3 +208,9 @@ This special class is how FontAwesome determines which
 icon to load. fas indicates the category of icons 
 (FontAwesome Solid, here), while fa-music selects the 
 specific icon.
+
+Step 38
+Use an id selector to create a rule for the element 
+with the id black-character. Set the width to 300px, 
+the height to 500px, and the background-color to 
+rgb(45, 31, 19).
