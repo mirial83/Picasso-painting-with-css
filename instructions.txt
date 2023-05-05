@@ -289,3 +289,8 @@ Step 54
 Next, target the element with the id blue-right using 
 an id selector. Set the width to 400px and the 
 height to 300px.
+
+Step 55
+Give the #blue-right element the correct positioning
+ with position set to absolute, top set to 50%, 
+ and left set to 40%.
