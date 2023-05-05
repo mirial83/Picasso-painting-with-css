@@ -166,4 +166,5 @@ body {
     border-bottom-color: transparent;
     border-left-color: transparent;
     border-right-color: Gold;
+    display: inline-block;
 }
