@@ -135,3 +135,5 @@ Using an id selector, create a rule for the element with the
 id black-mask. Give it a width of 100%, a height of 50px, 
 and a background-color of rgb(45, 31, 19).
 
+Step 23
+Give the mask a position of absolute, and a top and left value of 0.
