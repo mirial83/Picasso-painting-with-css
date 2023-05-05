@@ -281,3 +281,7 @@ Step 52
 Select the element with the id blue-left using an id 
 selector. Give it a width of 500px and a height of 300px.
 
+Step 53
+Now set the position to absolute, the top to 20%, 
+and the left to 20%.
+
