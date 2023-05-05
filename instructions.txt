@@ -220,3 +220,8 @@ Move the #black-character element into place by
 setting the position to absolute, the top to 30%, 
 and the left to 59%.
 
+Step 40
+Use an id selector to create a rule for the element 
+with the id black-hat. Give it a width of 0, a height 
+of 0, and a border-style of solid.
+
