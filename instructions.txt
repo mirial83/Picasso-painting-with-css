@@ -349,3 +349,8 @@ an id selector. Set the width to 180px, the height to
 Step 65
 The #black-round-hat element should probably be 
 round. Give it a border-radius of 50% to fix this.
+
+Step 66
+Move the #black-round-hat element into place with a 
+position of absolute, a top of -100px, and a left of 5px.
+
