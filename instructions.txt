@@ -428,3 +428,6 @@ to #D2691E.
 Step 84
 Now move the #guitar-neck element with a position of absolute, 
 a top value of 45px, and a left value of 200px.
+
+Step 85
+Give the #guitar-neck element a z-index of 3.
