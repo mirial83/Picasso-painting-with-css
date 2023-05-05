@@ -332,3 +332,7 @@ Inside both the #guitar-left and #guitar-right
 elements, add an i element and give it a class 
 of fas fa-bars.
 
+Step 62
+Select your orange-character element with an 
+id selector. Give it a width of 250px, a height 
+of 550px, and a background-color of rgb(240, 78, 42).
