@@ -381,3 +381,8 @@ triangle class. Set the width to 0 and the height to 0.
 Step 73
 Style the border of your .triangle elements. Set the 
 border-style to solid and the border-width to 42px 45px 45px 0.
+
+Step 74
+Give your .triangle elements the correct color. Set the 
+border-top-color, border-bottom-color, and border-left-color 
+to transparent. Set the border-right-color to Gold.
