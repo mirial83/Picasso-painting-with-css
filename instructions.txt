@@ -252,3 +252,7 @@ Using an id selector, create a rule for the id white-paper.
 Set the width to 400px, the height to 100px, and the 
 background-color to GhostWhite.
 
+Step 47
+Give the #white-paper a position of absolute, a top of 
+250px, and a left of -150px to move it into place.
+
