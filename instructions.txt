@@ -140,3 +140,9 @@ Give the mask a position of absolute, and a top and left value of 0.
 
 Step 24
 To ensure you can see the mask, give it a z-index of 1.
+
+Step 25
+Using an id selector, give the element with the id 
+gray-instrument a width of 15%, a height of 40%, and a 
+background-color of rgb(167, 162, 117).
+
