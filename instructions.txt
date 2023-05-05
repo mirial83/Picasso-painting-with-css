@@ -340,3 +340,8 @@ of 550px, and a background-color of rgb(240, 78, 42).
 Step 63
 Give the #orange-character element a position of 
 absolute, a top of 25%, and a left of 40%.
+
+Step 64
+Style the element with the id black-round-hat using 
+an id selector. Set the width to 180px, the height to 
+150px, and the background-color to rgb(45, 31, 19).
