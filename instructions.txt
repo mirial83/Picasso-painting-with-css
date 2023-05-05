@@ -178,3 +178,7 @@ absolute, a top value of 275px, and a left value of 15px.
 Step 33
 Give the table a z-index of 1.
 
+Step 34
+After your div#offwhite-character element, add a div 
+with the id of black-character.
+
