@@ -267,3 +267,9 @@ For now, use a class selector to target the icons with the
 class fa-music. Set the display to inline-block, the margin-top 
 to 8%, and the margin-left to 13%.
 
+Step 50
+Below your #black-character element, add two new div 
+elements. These will be the shawl. Give both of them a 
+class of blue. Then give the first one an id of blue-left, 
+and the second an id of blue-right.
+
