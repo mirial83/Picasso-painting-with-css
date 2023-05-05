@@ -294,7 +294,14 @@ Step 55
 Give the #blue-right element the correct positioning
  with position set to absolute, top set to 50%, 
  and left set to 40%.
- 
+
  Step 56
 Below your .blue elements, add another div.
  Give it the id value of orange-character.
+
+ Step 57
+Within that #orange-character element, 
+add four div elements. Give them the id 
+values of black-round-hat, eyes-div, triangles, 
+and guitar, in order.
+
