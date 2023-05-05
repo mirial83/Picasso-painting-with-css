@@ -171,3 +171,7 @@ Use an id selector to style the element with the id
 tan-table. Give it a width of 450px, a height of 140px, 
 and a background-color of #D2691E.
 
+Step 32
+Move the table into place by giving it a position of 
+absolute, a top value of 275px, and a left value of 15px.
+
