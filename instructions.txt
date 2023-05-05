@@ -227,3 +227,9 @@ of 0, and a border-style of solid.
 
 Step 41
 Set the border-width of the #black-hat to 150px 0 0 300px.
+
+Step 42
+Just like with your #white-hat, you should style the border 
+for the #black-hat element. Give it a border-top-color, 
+border-right-color, and border-bottom-color of transparent. 
+Set the border-left-color to rgb(45, 31, 19).
