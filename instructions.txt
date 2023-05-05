@@ -102,3 +102,8 @@ Create some "dots" for the instrument. Add five div elements
 within your #gray-instrument element. Set the class of each 
 to black-dot.
 
+Step 16
+Using an id selector, create a rule for the element with the 
+id offwhite-character. Give it a width of 300px, a height of 
+550px, and a background-color of GhostWhite.
+
