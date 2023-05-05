@@ -436,3 +436,7 @@ Step 86
 Time to style the elements with the eyes class. Use a class 
 selector to set the width to 35px, the height to 20px, the 
 background-color to #8B4513, and the border-radius to 20px 50%.
+
+Step 87
+Target the class with value right and set the position to absolute, 
+top to 15px, and right to 30px.
