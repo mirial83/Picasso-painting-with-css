@@ -377,3 +377,7 @@ id selector. Set the width to 250px and the height to 550px.
 Step 72
 Create a class selector for the elements with the 
 triangle class. Set the width to 0 and the height to 0.
+
+Step 73
+Style the border of your .triangle elements. Set the 
+border-style to solid and the border-width to 42px 45px 45px 0.
