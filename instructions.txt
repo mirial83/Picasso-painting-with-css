@@ -285,3 +285,7 @@ Step 53
 Now set the position to absolute, the top to 20%, 
 and the left to 20%.
 
+Step 54
+Next, target the element with the id blue-right using 
+an id selector. Set the width to 400px and the 
+height to 300px.
