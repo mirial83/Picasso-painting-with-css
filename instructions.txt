@@ -116,3 +116,7 @@ Step 18
 Using an id selector, style the element with the id white-hat. 
 Give it a width and height of 0, and a border-style of solid.
 
+Step 19
+That does not look quite right. Set a border-width of 0 120px 
+140px 180px to size the hat properly.
+
