@@ -112,3 +112,7 @@ Move the #offwhite-character into place by giving it a
 position of absolute, a top value of 20%, and a left value 
 of 17.5%.
 
+Step 18
+Using an id selector, style the element with the id white-hat. 
+Give it a width and height of 0, and a border-style of solid.
+
