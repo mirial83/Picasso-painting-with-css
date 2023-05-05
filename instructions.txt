@@ -357,3 +357,8 @@ position of absolute, a top of -100px, and a left of 5px.
 Step 67
 Put the #black-round-hat element on the correct 
 layer with a z-index of -1.
+
+Step 68
+Use an id selector to create a rule for the 
+element with the id eyes-div. Set the width to 180px 
+and the height to 50px.
