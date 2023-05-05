@@ -370,3 +370,7 @@ position set to absolute, top set to -40px, and left set to 20px.
 Step 70
 Give the #eyes-div element a z-index of 3.
 
+Step 71
+Target the element with the id triangles using an 
+id selector. Set the width to 250px and the height to 550px.
+
