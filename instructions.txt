@@ -83,5 +83,9 @@ Below your #back-wall element, create a div with a class
 of characters. This is where you will be creating your 
 painting's characters.
 
+Step 12
+Inside that .characters element, create another div with 
+an id of offwhite-character.
+
 
 
