@@ -273,3 +273,6 @@ elements. These will be the shawl. Give both of them a
 class of blue. Then give the first one an id of blue-left, 
 and the second an id of blue-right.
 
+Step 51
+Use a class selector to target the new elements with 
+the class blue. Set the background-color to #1E90FF.
