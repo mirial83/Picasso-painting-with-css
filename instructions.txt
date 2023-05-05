@@ -317,3 +317,11 @@ add the elements that will become your triangles.
 Create thirty div elements and give each of them 
 the class triangle.
 
+Step 60
+Within the #guitar element, create three div 
+elements. Give the first two a class value of guitar. 
+Then give the first an id of guitar-left, and the 
+second an id of guitar-right. Add an id to the third 
+div with the value guitar-neck.
+
+The third div should not have the guitar class.
