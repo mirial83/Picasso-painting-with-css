@@ -187,3 +187,9 @@ Within your new #black-character element, add three
 div elements with the following id values, in order: 
 black-hat, gray-mask, white-paper.
 
+Step 36
+The mask needs eyes. Within your #gray-mask element, 
+add two div elements. The first should have the class 
+set to eyes left, and the second should have the class 
+set to eyes right.
+
