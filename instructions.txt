@@ -259,3 +259,11 @@ Give the #white-paper a position of absolute, a top of
 Step 48
 Set the z-index of the #white-paper element to 1.
 
+Step 49
+FontAwesome icons come with their own styling to 
+define the icon. However, you can still set the styling 
+yourself as well, to change things like the color and size. 
+For now, use a class selector to target the icons with the 
+class fa-music. Set the display to inline-block, the margin-top 
+to 8%, and the margin-left to 13%.
+
