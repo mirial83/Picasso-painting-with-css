@@ -42,3 +42,7 @@ Step 7
 Use an id selector to give the element with the 
 id back-wall a background-color of #8B4513.
 
+Step 8
+Give the #back-wall element a width of 100% 
+and a height of 60%.
+
