@@ -146,3 +146,7 @@ Using an id selector, give the element with the id
 gray-instrument a width of 15%, a height of 40%, and a 
 background-color of rgb(167, 162, 117).
 
+Step 26
+Now move it into place with a position of absolute, a 
+top value of 50px, and a left value of 125px.
+
