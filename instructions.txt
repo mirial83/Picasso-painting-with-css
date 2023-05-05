@@ -97,3 +97,8 @@ This character needs eyes. Create two div elements in the
 #black-mask element. Give them the classes eyes left and 
 eyes right, in that order.
 
+Step 15
+Create some "dots" for the instrument. Add five div elements 
+within your #gray-instrument element. Set the class of each 
+to black-dot.
+
