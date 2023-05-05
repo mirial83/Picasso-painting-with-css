@@ -345,3 +345,7 @@ Step 64
 Style the element with the id black-round-hat using 
 an id selector. Set the width to 180px, the height to 
 150px, and the background-color to rgb(45, 31, 19).
+
+Step 65
+The #black-round-hat element should probably be 
+round. Give it a border-radius of 50% to fix this.
