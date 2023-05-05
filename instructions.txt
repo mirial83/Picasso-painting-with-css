@@ -415,3 +415,8 @@ absolute and the left to 0px.
 Step 81
 Select the id with value guitar-right, and also set position to 
 absolute. This time, set left to 100px.
+
+Step 82
+Now you need to move the bar icons into place. Create a class 
+selector for the fa-bars class. Set the display to block, the 
+margin-top to 30%, and the margin-left to 40%.
