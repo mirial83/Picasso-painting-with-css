@@ -107,3 +107,8 @@ Using an id selector, create a rule for the element with the
 id offwhite-character. Give it a width of 300px, a height of 
 550px, and a background-color of GhostWhite.
 
+Step 17
+Move the #offwhite-character into place by giving it a 
+position of absolute, a top value of 20%, and a left value 
+of 17.5%.
+
