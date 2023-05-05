@@ -362,6 +362,11 @@ Step 68
 Use an id selector to create a rule for the 
 element with the id eyes-div. Set the width to 180px 
 and the height to 50px.
+
 Step 69
 Now move the #eyes-div element into position with 
 position set to absolute, top set to -40px, and left set to 20px.
+
+Step 70
+Give the #eyes-div element a z-index of 3.
+
