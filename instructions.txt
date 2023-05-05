@@ -440,3 +440,7 @@ background-color to #8B4513, and the border-radius to 20px 50%.
 Step 87
 Target the class with value right and set the position to absolute, 
 top to 15px, and right to 30px.
+
+Step 88
+For the class with value left, create the selector and set the position 
+to absolute, the top to 15px, and the left to 30px.
