@@ -233,3 +233,7 @@ Just like with your #white-hat, you should style the border
 for the #black-hat element. Give it a border-top-color, 
 border-right-color, and border-bottom-color of transparent. 
 Set the border-left-color to rgb(45, 31, 19).
+
+Step 43
+Now position the #black-hat element. Give it a position of 
+absolute, with a top of -150px and a left of 0.
