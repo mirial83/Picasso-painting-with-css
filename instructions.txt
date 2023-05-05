@@ -126,3 +126,7 @@ border-right-color, and border-left-color of transparent.
 Set the border-bottom-color to GhostWhite. This will make it 
 look more like a hat.
 
+Step 21
+Give the hat a position of absolute, a top value of -140px, 
+and a left value of 0.
+
