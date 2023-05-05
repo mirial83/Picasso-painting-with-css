@@ -276,3 +276,8 @@ and the second an id of blue-right.
 Step 51
 Use a class selector to target the new elements with 
 the class blue. Set the background-color to #1E90FF.
+
+Step 52
+Select the element with the id blue-left using an id 
+selector. Give it a width of 500px and a height of 300px.
+
