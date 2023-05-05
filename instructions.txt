@@ -336,3 +336,7 @@ Step 62
 Select your orange-character element with an 
 id selector. Give it a width of 250px, a height 
 of 550px, and a background-color of rgb(240, 78, 42).
+
+Step 63
+Give the #orange-character element a position of 
+absolute, a top of 25%, and a left of 40%.
