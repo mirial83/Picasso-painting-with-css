@@ -399,3 +399,5 @@ Step 77
 In the same #guitar selector, set the position to absolute, 
 the top to 120px, and the left to 0px.
 
+Step 78
+Give the #guitar rule a z-index of 3.
