@@ -425,3 +425,6 @@ Step 83
 Use an id selector to create a rule for the id guitar-neck. 
 Set the width to 200px, the height to 30px, and the background-color 
 to #D2691E.
+Step 84
+Now move the #guitar-neck element with a position of absolute, 
+a top value of 45px, and a left value of 200px.
