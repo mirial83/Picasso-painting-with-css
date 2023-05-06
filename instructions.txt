@@ -444,3 +444,9 @@ top to 15px, and right to 30px.
 Step 88
 For the class with value left, create the selector and set the position 
 to absolute, the top to 15px, and the left to 30px.
+
+Step 89
+One last step. The FontAwesome icons are a little too small. Target 
+all of them with a class selector for fas, and set the font-size to 30px.
+
+With that, your Picasso painting is complete!
